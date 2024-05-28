@@ -2,7 +2,7 @@
 	import type { ActionData } from './$types';
 
 	export let form: ActionData;
-</script>git remote add origin git@github.com:kleemubarok/vote-pb.git
+</script>
 
 <div class="hero min-h-screen bg-base-200">
 	<div class="hero-content flex-col lg:flex-row-reverse">
